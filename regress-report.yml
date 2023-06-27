@@ -3,7 +3,7 @@ test-cases:
       Проверка поиска по категории
   status: fail
 
-    - summary: |
+  - summary: |
       Проверка поиска по ключевому слову
   status: fail
   
