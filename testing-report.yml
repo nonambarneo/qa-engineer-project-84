@@ -1,27 +1,27 @@
   - summary: |
       Проверка поиска по категории
-     status: fail
+      status: fail
 
   - summary: |
       Проверка поиска по ключевому слову
-     status: fail
+      status: fail
   
   - summary: |
       Проверка фильтра по цене
-     status: pass
+      status: pass
   
   - summary: |
       Проверка карточки товара
-     status: pass
+      status: pass
   
   - summary: |
       Проверка добавления товара в корзину
-     status: pass
+      status: pass
     
   - summary: |
       Проверка совместимости в разных браузерах
-     status: pass
+      status: pass
   
   - summary: |
       Доступнось на разных устройствах
-     status: fail
+      status: fail
