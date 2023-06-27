@@ -1,6 +1,6 @@
   - summary: |
       Проверка поиска по категории
-    status: fail
+  status: fail
   
   - summary: |
       Проверка поиска по ключевому слову
