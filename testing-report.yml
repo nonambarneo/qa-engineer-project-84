@@ -1,27 +1,28 @@
-- summary: |
+test-cases:
+  - summary: |
       Проверка поиска по категории
-status: fail
+  status: fail
   
-- summary: |
+  - summary: |
       Проверка поиска по ключевому слову
-status: fail
+  status: fail
   
-- summary: |
-      Проверка фильтра по цене
-status: pass
+  - summary: |
+            Проверка фильтра по цене
+  status: pass
   
-- summary: |
-      Проверка карточки товара
-status: pass
+  - summary: |
+            Проверка карточки товара
+  status: pass
   
-- summary: |
-      Проверка добавления товара в корзину
-status: pass
+  - summary: |
+            Проверка добавления товара в корзину
+  status: pass
   
-- summary: |
-      Проверка совместимости в разных браузерах
-status: pass
+  - summary: |
+            Проверка совместимости в разных браузерах
+  status: pass
   
-- summary: |
-      Доступ на разных устройствах
-status: fail
+  - summary: |
+            Доступ на разных устройствах
+  status: fail
